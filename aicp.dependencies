@@ -1,6 +1,6 @@
 [
   {
-    "repository": "AICP/android_device_motorola_sm8250-common",
+    "repository": "AICP/device_motorola_sm8250-common",
     "target_path": "device/motorola/sm8250-common"
   }
 ]
